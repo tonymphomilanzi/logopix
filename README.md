@@ -61,7 +61,7 @@ npm run build
 
 🤝 Contributing
 
-Pull requests are welcome! 🚀
+Pull requests are welcome! 
 For major changes, open an issue first to discuss.
 
 ☕ Support
