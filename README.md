@@ -66,7 +66,15 @@ For major changes, open an issue first to discuss.
 
 ☕ Support
 
-If you like this project, consider supporting me:
+If you like this project, consider supporting me: <a 
+        href="https://www.Ko-fi.com/tonymphomilanzi" //
+        target="_blank" 
+        rel="noopener noreferrer"
+        className="absolute top-4 right-4 flex items-center gap-2 px-4 py-2 bg-yellow-400 text-yellow-900 rounded-full shadow-md hover:bg-yellow-500 hover:shadow-lg transition-all duration-200 text-sm font-semibold"
+      >
+        <Coffee className="w-4 h-4 " />
+        Support me on Ko-fi
+      </a>
 
 
 📄 License
